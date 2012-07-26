@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+/target
+/lib
+/classes
+/checkouts
+pom.xml
+*.jar
+*.class
+.lein-deps-sum
+.lein-failures
+.lein-plugins
+=======
+pom.xml
+*jar
+/lib/
+/classes/
+.lein-deps-sum
+>>>>>>> 8b2cf9cffc6b8d1e23f4ff62444069d66ecfb8d1
